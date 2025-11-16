@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "blankError": "This field cannot be blank",
+  "eightCharactersError": "Password must be at least 8 characters",
+  "oneSpecialError": "Password must contain at least one special character",
+  "oneUppercaseError": "Password must contain at least one uppercase letter",
+  "oneDigitError": "Password must contain at least one digit",
+  "mustNotContainEmailError": "Password must not contain your email",
+  "wrongPasswordError": "Wrong password",
+  "notLikeOldPasswordError": "New password must not be the same as the old password",
+  "invalidProviderError": "Invalid provider",
+  "userNotFoundError": "User not found",
+  "userAlreadyExistsError": "User already exists",
+  "invalidEmailError": "Invalid email address",
+  "emailAlreadyExistError": "Email already exists",
+  "phoneNumberAlreadyExistError": "Phone number already exists",
+  "incorrectCodeError": "Incorrect code",
+  "mismatchConfirmPassword": "Not similar password",
+  "suggestedPriceTooHigh": "Предлогаемая цена должна быть не выше максимума и цены объекта",
+  "unknownError": "Unknown error occurred",
+  "wrongPasswordOrLogin": "Password is not valid",
+  "invalidPhoneError": "Invalid number"
+}

@@ -1,0 +1,23 @@
+{
+  "@@locale": "ky",
+  "blankError": "Бул талаа бош болбошу керек",
+  "eightCharactersError": "Сырсөз кеминде 8 белгиден турушу керек",
+  "oneSpecialError": "Сырсөздө жок дегенде бир атайын белги болушу керек",
+  "oneUppercaseError": "Сырсөздө жок дегенде бир баш тамга болушу керек",
+  "oneDigitError": "Сырсөздө жок дегенде бир сан болушу керек",
+  "mustNotContainEmailError": "Сырсөздө сиздин email болбошу керек",
+  "wrongPasswordError": "Туура эмес сырсөз",
+  "notLikeOldPasswordError": "Жаңы сырсөз эскисине окшош болбошу керек",
+  "invalidProviderError": "Туура эмес провайдер",
+  "userNotFoundError": "Колдонуучу табылган жок",
+  "userAlreadyExistsError": "Колдонуучу мурунтан бар",
+  "invalidEmailError": "Туура эмес email",
+  "emailAlreadyExistError": "Email мурунтан бар",
+  "phoneNumberAlreadyExistError": "Телефон номери мурунтан бар",
+  "incorrectCodeError": "Туура эмес код",
+  "mismatchConfirmPassword": "Сыр сөздөр окшош эмес",
+  "unknownError": "Белгисиз ката кетти",
+  "wrongPasswordOrLogin": "Сырсөз туура эмес",
+  "invalidPhoneError": "Номер туура эмес",
+  "suggestedPriceTooHigh": "Предлогаемая цена должна быть не выше максимума и цены объекта"
+}

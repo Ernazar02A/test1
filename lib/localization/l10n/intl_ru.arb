@@ -1,0 +1,23 @@
+{
+  "@@locale": "ru",
+  "blankError": "Это поле не может быть пустым",
+  "eightCharactersError": "Пароль должен содержать не менее 8 символов",
+  "oneSpecialError": "Пароль должен содержать хотя бы один специальный символ",
+  "oneUppercaseError": "Пароль должен содержать хотя бы одну заглавную букву",
+  "oneDigitError": "Пароль должен содержать хотя бы одну цифру",
+  "mustNotContainEmailError": "Пароль не должен содержать ваш email",
+  "wrongPasswordError": "Неверный пароль",
+  "notLikeOldPasswordError": "Новый пароль не должен совпадать со старым",
+  "invalidProviderError": "Неверный провайдер",
+  "userNotFoundError": "Пользователь не найден",
+  "userAlreadyExistsError": "Пользователь уже существует",
+  "invalidEmailError": "Неверный email",
+  "emailAlreadyExistError": "Email уже существует",
+  "phoneNumberAlreadyExistError": "Номер телефона уже существует",
+  "incorrectCodeError": "Неверный код",
+  "suggestedPriceTooHigh": "Предлогаемая цена должна быть не выше максимума и цены объекта",
+  "mismatchConfirmPassword": "Пароли не совпадают",
+  "unknownError": "Произошла неизвестная ошибка",
+  "wrongPasswordOrLogin": "Неверный пароль",
+  "invalidPhoneError": "Неверный номер"
+}
