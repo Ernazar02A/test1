@@ -1,0 +1,101 @@
+name: test1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  # State management
+  flutter_bloc: ^9.1.1
+  # Navigation
+  auto_route: ^10.1.2
+  # Network
+  dio: ^5.9.0
+  retrofit: ^4.7.2
+  # Dependency Injection
+  get_it: ^8.2.0
+  injectable: ^2.5.0
+  # Data Classes
+  freezed_annotation: ^2.4.4
+  json_annotation: ^4.9.0
+  # UI
+  flutter_svg: ^2.2.1
+  # Localization
+  intl: ^0.20.2
+  # Locale storage
+  flutter_secure_storage: ^9.2.4
+  shared_preferences: ^2.5.3
+  # Logging
+  pretty_dio_logger: ^1.4.0
+  # LibphoneNumber
+  flutter_libphonenumber: ^2.5.1
+  # Screen utils
+  flutter_screenutil: ^5.9.3
+  # Image picker
+  image_picker: ^1.1.2
+  # OTP
+  pinput: ^5.0.2
+  # WebView
+  webview_flutter: ^4.13.0
+  # Paging
+  infinite_scroll_pagination: ^5.1.1
+  # Shimmer
+  shimmer: ^3.0.0
+  # Network image
+  cached_network_image: ^3.4.1
+  qr_flutter: ^4.1.0
+  # Ws
+  centrifuge: ^0.17.0
+  # URL Launcher
+  url_launcher: ^6.3.1
+
+  # Shake detection
+  shake: ^3.0.0
+  # Device info
+  device_info_plus: ^10.1.2
+
+  # Logging and monitoring
+  talker: ^5.0.2
+  talker_flutter: ^5.0.2
+  talker_dio_logger: ^5.0.2
+  talker_bloc_logger: ^5.0.2
+  table_calendar: ^3.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  # Code Generation
+  build_runner: ^2.4.15
+  freezed: ^2.5.8
+  json_serializable: ^6.9.5
+  retrofit_generator: ^9.1.4
+  auto_route_generator: ^10.2.3
+  injectable_generator: ^2.6.2
+  # Localization
+  intl_utils: ^2.8.10
+
+flutter:
+
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/fonts/
+
+
+flutter_intl:
+  enabled: true
+  arb_dir: lib/localization/l10n
+  output_dir: lib/localization/generated
